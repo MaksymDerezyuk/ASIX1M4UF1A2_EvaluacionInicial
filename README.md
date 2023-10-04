@@ -16,4 +16,13 @@ Respuesta.
 
 Respuesta.
 
-5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
+5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
+
+|Aplicaciones|Visto|
+|---------------|------------|
+|Google Docs|✔️|
+|Google Slides|✔️|
+|Google Sheets|✔️|
+|Google Calendar|📅|
+|Google Meet|💻|
+|...|...|
