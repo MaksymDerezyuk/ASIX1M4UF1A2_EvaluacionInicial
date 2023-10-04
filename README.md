@@ -49,4 +49,4 @@
     Es un lenguaje de marcado utilizado en el desarrollo web para definir la presentación y el diseño de una página web escrita en HTML.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
-(<https://github.com/MaksymDerezyuk/ASIX1M4UF1A2_EvaluacionInicial/blob/main/Punto8.PNG>)
+![Esto es una imagen](https://github.com/MaksymDerezyuk/ASIX1M4UF1A2_EvaluacionInicial/blob/main/Punto8.PNG)
